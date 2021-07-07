@@ -1,1 +1,103 @@
 # web.test
+ <!DOCTYEP html>
+<html>    
+   <head>
+        <meta charset="utf-8">
+        <title> league of legends test</title>
+    </head>
+        <body>
+          <h1><a href="https://na.leagueoflegends.com/ko-kr/" title="리그오브레전드 홈페이지">리그오브레전드</a></h1>
+              <img src="../315-5345/test/lol.png" width="200">
+    
+        <ol>
+            <li>개요</li>   
+            <li>시네마틱</li>   
+            <li>게임 정보</li>
+        </ol>
+    
+         
+<p><strong>라이엇 게임즈</strong>가 개발 및 서비스 중인 MOBA 장르의 게임. <br>국내에선 게임 명칭의 앞 글자들을 따서 롤(LoL), 서양에서는 롤의 약칭인 League 등으로 불린다.</p>
+
+<p>이전까지 있었던 MOBA(AOS) 게임들보다 진입 장벽을 낮추는 것으로 높은 인기를 얻었고 현재는 전 세계에서 많은 유저들을 보유중인데<br> PC 게임 중 전 세계에서 많이 플레이하는 게임 중 하나이며 2016년 기준 월 플레이어 수 1억 명 이상을 달성했고 2019년 8월 기준 하루 전 세계 서버의 피크 시간 동시 접속자 수를 합치면 800만 명 이상이다.<br> 또한 전 세계 E스포츠 대회 중 가장 많은 시청자 수 기록을 보유 중인 리그 오브 레전드 월드 챔피언십과 각 지역 리그 등등 수많은 E스포츠 대회가 많이 개최되는 중이다.<br>그리고 2018 자카르타·팔렘방 아시안 게임에서 공식 시범 종목으로 채택되기도 했다.</p>
+
+<p>파생 게임으로 CCG게임인 레전드 오브 룬테라가 출시되었고, 공식 모바일 버전인 <strong><u>리그 오브 레전드</u></strong>: 와일드 리프트가 2020년 말에 오픈베타를 진행하기 시작했다.</p>
+
+    <h2>역대 Bl (로고)</h2>
+        <table border="5" >
+            <tr>
+                <td><img src="../315-5345/test/lol.1.PNG"></td>
+                <td> <img src="test/lol.2.PNG"></td>   
+                <td> <img src="test/lol.3.PNG"> 
+                <td><img src="test/lol.png" width="200"></td>     
+            <tr/>
+              
+            <tr>
+               <td>2009</td>
+               <td>2009~2013.10.</td>
+               <td>2013.10~2019</td>
+               <td>2019</td>
+           </tr>
+       
+       </table>
+       <br>
+    
+    
+    <table border="4">
+        <tr>
+        <td colspan="5" bgcolor=#000080 style="color: aliceblue">리그오브레전드</td>
+        
+        </tr>
+        
+        <tr>
+        <td colspan="10"><img src="test/lol.png" width="300"></td>
+        </tr>
+        
+        <tr>
+            <td bgcolor=#000080 style="color: aliceblue">개발</td>
+            <td><img src="test/%EB%9D%BC%EC%9D%B4%EC%97%87.PNG"></td>
+        </tr>
+        
+        <tr>
+            <td bgcolor=#000080 style="color: aliceblue">유통</td>
+            <td><img src="test/%EC%9C%A0%ED%86%B5.PNG"></td>
+        </tr>
+        <tr>
+            <td bgcolor=#000080 style="color: aliceblue">플랫폼</td>
+            <td><img src="test/%ED%94%8C%EB%9E%AB%ED%8F%BC.PNG"</td>
+        </tr>
+        
+        <tr>
+            <td bgcolor=#000080 style="color: aliceblue" >장르</td>
+            <td style="color:darkslateblue"> MOBA(AOS)</td>
+        </tr>
+        
+        <tr>
+            <td bgcolor=#000080 style="color: aliceblue"> 엔진</td>
+            <td> <strong>자체 개발 엔진</strong></td>
+        </tr>
+        
+        <tr>
+            <td bgcolor=#000080 style="color: aliceblue">출시일</td>
+            <td><strong>[펼치기 · 접기]</strong></td>
+        </tr> 
+        <tr>
+            <td bgcolor=#000080 style="color: aliceblue"> 한국어 지원</td>
+            <td>자막, 음성 한국어화</td>
+        </tr>
+        <tr>
+            <td bgcolor=#000080 style="color: aliceblue">심의 등급</td>
+            <td> <img src="test/%EC%8B%AC%EC%9D%98%EB%93%B1%EA%B8%89.PNG"></td>
+        </tr>
+        <tr>
+            <td bgcolor=#000080 style="color: aliceblue">해외 등급</td>
+            <td><img src="test/%ED%95%B4%EC%99%B8%EB%93%B1%EA%B8%89.PNG"> </td>
+        </tr>
+        
+        <tr>
+            <td bgcolor=#000080 style="color: aliceblue">링크</td>
+            <td><img src="test/%EB%A7%81%ED%81%AC.PNG"></td>
+        </tr>
+    </table>
+    </body>
+</html>
+
